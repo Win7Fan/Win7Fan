@@ -2,7 +2,8 @@
 - 👀 I’m interested in something else
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on none
-- 📫 How to reach me with none
+- 📫 How to reach me with my email
+- My email is windows10phamvinh@gmail.com
 
 <!---
 Win7Fan/Win7Fan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
